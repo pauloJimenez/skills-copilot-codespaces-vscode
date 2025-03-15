@@ -1,5 +1,7 @@
 <header>
 
+
+
 <!--
   <<< Author notes: Course header >>>
   Read <https://skills.github.com/quickstart> for more information about how to build courses using this template.
